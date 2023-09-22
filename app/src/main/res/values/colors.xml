@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--TODO change this with light color-->
+    <color name="colorPrimary">#c36ff8</color>
+    <!--TODO change this with Dark color-->
+    <color name="colorPrimaryDark">#6d4ac0</color>
+
+
+    <color name="colorAccent">@color/colorPrimary</color>
+    <color name="gray">#EDEDED</color>
+    <color name="start_color">@color/colorPrimaryDark</color>
+    <color name="end_color">@color/colorPrimary</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#fff</color>
+    <color name="light_gray">#F7E8E8E8</color>
+
+
+
+
+    <color name="ItemColorStart1">#7b4397</color>
+    <color name="ItemColorEnd1">#dc2430</color>
+
+    <color name="ItemColorStart2">#ff512f</color>
+    <color name="ItemColorEnd2">#dd2476</color>
+
+    <color name="ItemColorStart3">#de6262</color>
+    <color name="ItemColorEnd3">#ffb88c</color>
+
+    <color name="ItemColorStart4">#02aab0</color>
+    <color name="ItemColorEnd4">#00cdac</color>
+
+    <color name="ItemColorStart5">#aa076b</color>
+    <color name="ItemColorEnd5">#61045f</color>
+
+    <color name="ItemColorStart6">#56ab2f</color>
+    <color name="ItemColorEnd6">#a8e063</color>
+
+    <color name="ItemColorStart7">#d38312</color>
+    <color name="ItemColorEnd7">#a83279</color>
+
+    <color name="endhome">#56FFFFFF</color>
+</resources>

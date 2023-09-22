@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Scratch to Win</string>
+
+    <!-- TODO replace with own applovin sdk key -->
+    <string name="applovin_sdk_key">amdILXUTbkMC6BbntRADTAs8qmMxGU-0UKgaK2EFRUsSzPoDaF</string>
+
+
+    <!-- TODO Make true for Test ads and false for Live ads for unity-->
+    <bool name="test_mode">true</bool>
+
+    <!--TODO change this share desc it show when your app shared by any user-->
+    <string name="share_text">Hey You Know About this App. I have earned 100 Rupees from this app, you also want to earn money so click on link below and download it from play store and use My Refer code to get instant bonus My Refer code is </string>
+
+    <!--TODO change these urls-->
+    <string name="privacy_policy_link">https://www.google.com</string>
+    <string name="instruction_link">https://www.google.com</string>
+    <string name="about_link">https://www.google.com</string>
+
+    <!--TODO change this help/support gmail id with your own-->
+    <string name="gmail_id">abc@gmail.com</string>
+
+
+    <!-- TODO home screen short description text change here -->
+    <string name="daily_checkin_desc">Get daily checkin rewards</string>
+    <string name="silver_scratch_desc">Scratch silver card to win</string>
+    <string name="platinum_scratch_desc">Scratch platinum card to win</string>
+    <string name="gold_scratch_desc">Scratch golden card to win</string>
+    <string name="menu_my_wallet_desc">Manage and redeem points</string>
+    <string name="refer_more_desc">Refer your friends and earn</string>
+
+    <string name="you_are_blocked">You are Blocked for cheating in this app</string>
+    <string name="no_internet_connection">No Internet Connection please check your internet connection.</string>
+
+    <string name="slow_internet_connection">Slow Internet Connection Please Check your Internet Connection</string>
+    <string name="you_won">Congratulation You Won</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_to_wallet">Add</string>
+    <string name="okk">OK</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="didNotSign_up">Sign Up</string>
+    <string name="or">------ OR ------</string>
+    <string name="redeem_tag_line_1">Are You Sure to Redeem your points?</string>
+    <string name="redeem_tag_line_2">your number or paypal id is </string>
+    <string name="redeem_tag_line_3">and your redeem points are </string>
+    <string name="redeem_tag_line_4">and your redeem method is </string>
+    <string name="enter_valid_email">Enter valid Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_valid_number">Enter 10 or more Digit Number</string>
+    <string name="today_chance_over">Today\'s Chance is over, try again tomorrow</string>
+    <string name="better_luck">Better Luck Next Time</string>
+    <string name="login_successfully">Login Successfully…</string>
+    <string name="reset">Reset Password</string>
+    <string name="forgot_password_title">Enter your registered email id and we will send a password reset email to you</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="enter_referal_code">Referral Code (optional)</string>
+    <string name="have_an_account">Already Have Account ?</string>
+    <string name="registration_success">Registration Successfully…</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_home">Home</string>
+    <string name="change_password">Change Password</string>
+    <string name="comunicate">Communicate</string>
+    <string name="menu_contact">Contact Us</string>
+    <string name="menu_about">About Us</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="menu_refer"><![CDATA[Refer & Earn]]></string>
+    <string name="exit">Exit</string>
+    <string name="share">Share App</string>
+    <string name="rate">Rate App</string>
+    <string name="faq">Instruction</string>
+    <string name="exit_text">Are you sure to exit?</string>
+    <string name="yes">Yes</string>
+    <string name="not_change_email">You can\'t change email</string>
+    <string name="no">No</string>
+    <string name="send">Send</string>
+    <string name="title">Send Your Questions and Suggestions here</string>
+    <string name="emailtitle">Subject</string>
+    <string name="message">Message</string>
+    <string name="refer_more">Refer &amp; Earn</string>
+    <string name="refer">Invite</string>
+    <string name="resend_otp">Did not get OTP? Resend</string>
+    <string name="profile">Profile</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="incomplite_profile">Your Profile is Incomplete please update your Profile</string>
+    <string name="update_successfully">Update Successfully</string>
+    <string name="login_first">Login First</string>
+    <string name="total_availiable_points">Total Available Points</string>
+    <string name="select_method">Select payment method</string>
+    <string name="enter_payment_details">Enter Payment Details</string>
+    <string name="menu_my_wallet">My Wallet</string>
+    <string name="enter_points">Enter Points</string>
+    <string name="submit">Submit</string>
+    <string name="today_checkin_over">You Already Collect Today Reward, try again tomorrow</string>
+    <string name="redeem_successfully">Redeem Successfully</string>
+    <string name="daily_checkin">Daily Reward</string>
+    <string name="silver_scratch">Silver Scratch</string>
+    <string name="platinum_scratch">Platinum Scratch</string>
+    <string name="gold_scratch">Golden Scratch</string>
+    <string name="your_refer_code">Your Referral Code</string>
+    <string name="tap_copy">Tap to copy</string>
+    <string name="leaderboard">LeaderBoard</string>
+    <string name="position">Position</string>
+    <string name="playerName">Player Name</string>
+    <string name="winning">Winning</string>
+    <string name="enter_new_password">Enter New Password</string>
+    <string name="change_passord">Submit</string>
+    <string name="not_watch_full_video">Ohh ! You not watched full video so points will not be added to your wallet.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="payment_history">Payment History</string>
+
+</resources>

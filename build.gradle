@@ -1,0 +1,44 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    repositories {
+        google()
+        jcenter()
+        mavenCentral()
+        gradlePluginPortal()
+        maven { url 'https://jitpack.io' }
+
+        // add this line to your code
+        maven { url 'https://artifacts.applovin.com/android' }
+    }
+    dependencies {
+        classpath "com.android.tools.build:gradle:4.0.2"
+        classpath 'com.google.gms:google-services:4.3.4'
+        classpath 'gradle.plugin.com.onesignal:onesignal-gradle-plugin:0.13.4'
+        // add this line to your code
+        classpath "com.applovin.quality:AppLovinQualityServiceGradlePlugin:+"
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+        mavenCentral()
+        maven { url "https://jitpack.io" }
+        maven {
+            url "https://maven.google.com"
+        }
+
+        // add this line to your code
+        maven { url 'https://artifacts.applovin.com/android' }
+
+        
+        flatDir {
+            dirs 'src/main/libs'
+        }
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34682903372",
+    "project_id": "onlyscratchapp",
+    "storage_bucket": "onlyscratchapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34682903372:android:26a017fc079f6562d5cde9",
+        "android_client_info": {
+          "package_name": "com.aadevelopers.onlyscratchiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34682903372-ev3m3udd2af1acjv9u4lg8bv3gj87atn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjMap_xTLt2uQxHEGP2JQF5GqiFQez5Z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34682903372-ev3m3udd2af1acjv9u4lg8bv3gj87atn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
